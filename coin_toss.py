@@ -2,7 +2,7 @@
 
 # NAME: Michael Carney
 # DATE: Wednesday October 2, 2025
-# BRIEF DESCRIPTION: 
+# BRIEF DESCRIPTION: Random Coin Toss
 
 # 1. Make sure you fill out the comments above
 # 2. Write your code in the proper spot
