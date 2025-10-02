@@ -13,8 +13,8 @@
 # Don't forget to import random!!!!!
 import random
 print("===== Coin Flipper =====")
-toss = random.randint(1,2)
-if toss == 1:
+toss = random.randint(1,100)
+if 1 <= toss <= 50:
         print("Heads")
 else:
       print("Tails")
